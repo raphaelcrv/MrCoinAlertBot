@@ -1,0 +1,9 @@
+- API FoxBit
+http://api.blinktrade.com/api/v1/BRL/ticker?crypto_currency=BTC
+
+https://github.com/Naltox/telegram-node-bot
+
+Use this token to access the HTTP API:
+470583358:AAHBBR-4s390jXwZfIC4GzDGCu7ot2lU4wU
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api

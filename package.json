@@ -1,0 +1,22 @@
+{
+  "name": "mrcoinbot",
+  "version": "1.0.0",
+  "description": "bot alert bitcoins foxbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelcrv/MrCoinBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelcrv/MrCoinBot/issues"
+  },
+  "homepage": "https://github.com/raphaelcrv/MrCoinBot#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
