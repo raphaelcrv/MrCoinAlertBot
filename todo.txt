@@ -7,3 +7,8 @@ Use this token to access the HTTP API:
 470583358:AAHBBR-4s390jXwZfIC4GzDGCu7ot2lU4wU
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+- Criar controller para todos os comandos
+- Fazer request e trazer os dados da api
+- Adicionar comando btcemail para receber todos os alertas por e-mail
+- integrar com banco de dados
